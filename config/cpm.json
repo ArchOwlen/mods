@@ -1,0 +1,15 @@
+{
+  "titleScreenButton": true,
+  "playerSettings": {},
+  "globalSettings": {
+    "safetyProfile": "off"
+  },
+  "friendSettings": {},
+  "keybinds": {},
+  "blockedList": {},
+  "editorRotateMouseButton": 2.0,
+  "safetyProfiles": {},
+  "friendList": {},
+  "serverSettings": {},
+  "selectedModel": "OwlVali.cpmmodel"
+}

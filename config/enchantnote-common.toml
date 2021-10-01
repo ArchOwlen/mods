@@ -1,0 +1,17 @@
+
+[general]
+	#Is disable enchanting enchanted item?
+	enchanted_disabled = false
+	#Enchantment cost: `level * max(1, rarityBaseCost * theMultiplier)`
+	#As combining enchantments at an anvil, this multiplier is 1 from item, and 0.5 from book
+	#Range: 0.0 ~ 1.7976931348623157E308
+	enchant_multiplier = 0.5
+	#The cost of enchanting must be smaller than this value in non-creative mode. [MAX_VALUE: 2147483647]
+	#Range: > 0
+	enchant_cost_limit = 40
+	#Is enable getting prior work penalty as anvil do?
+	prior_work_penalty = true
+	#Getting PRIOR_WORK_PENALTY if it is equal or greater than this value that the number of enchantments at the item.
+	#Range: > 0
+	penalty_start_num = 1
+
